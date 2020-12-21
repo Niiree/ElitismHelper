@@ -60,7 +60,6 @@ local Spells = {
 	
 	
 	-- Spires of Ascension
-	[331251] = 20,      -- Deep Connection (Azules / Kin-Tara)
 	[317626] = 20,      -- Maw-Touched Venom (Azules)
 	[323786] = 20,      -- Swift Slice (Kyrian Dark-Praetor)
 	[324662] = 20,      -- Ionized Plasma (Multiple) Can this be avoided?
@@ -193,6 +192,7 @@ local Auras = {
 	[331381] = 20,		-- Slipped (Lubricator)
 	
 	-- Spires of Ascension
+	[331251] = 20,      -- Deep Connection (Azules / Kin-Tara)
 	
 	-- The Necrotic Wakes
 	
